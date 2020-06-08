@@ -17,10 +17,15 @@ h2{
 
 }
 p{
+    width: 75%;
     text-align: center;
+    margin: auto;
+    padding-bottom: 10px;
 }
 
 .example_image{
-    width: 500px;
+    width: 60%;
+    height: auto;
     padding-bottom: 50px;
+    margin: auto;
 }
