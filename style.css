@@ -7,8 +7,11 @@ body{
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: x-large;
-    padding-bottom: 20px;
-    padding-top: 10x;
+    margin: auto;
+    width:70%;
+    padding-top: 25%;
+    padding-bottom: 50%;
+
 
 }
 
@@ -18,15 +21,17 @@ h2{
 
 }
 p{
-    width: 75%;
+    width: 60%;
     text-align: center;
     margin: auto;
     padding-bottom: 10px;
+
 }
 
 .example_image{
-    width: 60%;
+    width: 50%;
     height: auto;
     padding-bottom: 50px;
     margin: auto;
+
 }
